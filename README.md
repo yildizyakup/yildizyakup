@@ -17,13 +17,6 @@
  ```
  Electronics Engineering @ Gebze Technical University
  ```
-## Technical Skills
-
- ``
- C, Python
- Deep Learning
- Image Processing
- ```
 
 ## Contact me from:<br>
 
