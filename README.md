@@ -12,7 +12,8 @@
 
 <div align="center">
 
-## Graduate Student
+## Software Developer
+
 
  ```
  Electronics Engineering @ Gebze Technical University
