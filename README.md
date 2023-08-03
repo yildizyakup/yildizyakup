@@ -12,9 +12,6 @@
 
 <div align="center">
 
-## Jack of all trades
-
-
  ```
  Electronics Engineering @ Gebze Technical University
  ```
